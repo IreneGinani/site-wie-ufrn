@@ -612,3 +612,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 #footer a:hover {
 	color: #dc493a;
 }
+#footer .apoio-img{
+	width: 157px;
+}
